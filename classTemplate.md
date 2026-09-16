@@ -15,7 +15,8 @@ Class Name
 | Damage | Cost  | Delay |
 | :----: | :---: | :---: |
 | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-|        |       |       |
+
+
 *The primary skill an actor uses.  Minimal to no cost or delay and steady damage output.*
 
 # Utility Attack
@@ -23,12 +24,14 @@ Class Name
 | Damage | Cost  | Delay |
 | :----: | :---: | :---: |
 | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+
 *An attack that does minimal damage, but provides some form of utility that can benefit the user, or detriment the enemy.  For example, an attack that leaves behind a wall of terrain *
 
 ### Movement Attack
 | Damage | Cost  | Delay |
 | :----: | :---: | :---: |
 | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+
 *An attack with some form of movement benefit for user or detriment to enemy, or some combination of both*
 
 ---
@@ -37,7 +40,7 @@ Class Name
 |                         Speed                         |                    Weight                    |                   Wind                    |
 | :---------------------------------------------------: | :------------------------------------------: | :---------------------------------------: |
 |                         ⭐⭐⭐⭐⭐                         |                    ⭐⭐⭐⭐⭐                     |                   ⭐⭐⭐⭐⭐                   |
-| The base velocity and mulitpier of a fired projectile | How susceptible the projectile is to gravity | How susceptible the projectile is to wind |
+| The base velocity and multiplier of a fired projectile | How susceptible the projectile is to gravity | How susceptible the projectile is to wind |
 
 ### Shape
 *An approximation of the firing arc / shape*
