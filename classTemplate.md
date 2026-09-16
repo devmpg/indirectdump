@@ -44,7 +44,7 @@ Class Name
 
 ### Shape
 *An approximation of the firing arc / shape*
-![[Pasted image 20260916153005.png]]
+![https://github.com/devmpg/indirectdump/blob/main/Pasted%20image%2020260916153005.png]
 ![[ProjectileTemplate.excalidraw]]
 ### Explosion
 *An apprimation  of the explosion area*
